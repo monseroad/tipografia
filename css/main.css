@@ -1,0 +1,59 @@
+div{ 
+	width: 290px;
+	height: 400px;
+	background-color: #E6E6FA;
+	float: left;
+	margin: 5px;
+    border-radius: 15px;
+ 
+}
+
+div:hover {
+	border: 10px outset;
+	transition-duration: 1s;
+}
+
+@font-face{
+	font-family: 'Fontdiner Swanky', cursive;
+    font-family: 'Mystery Quest', cursive;
+    src: https://fonts.google.com/?selection.family=Fontdiner+Swanky|Mystery+Quest;
+    font-style: normal;
+    font-style: normal;
+
+}
+
+h2{
+	font-family: 'Fontdiner Swanky', cursive;
+	text-align: center;
+	
+}
+
+h4{
+	font-family: 'Mystery Quest', cursive;
+	text-align: center;
+}
+
+p{
+	font-family: 'Mystery Quest', cursive;
+	text-align: center;
+
+}
+
+span{
+	font-size: 140px;
+}
+.icon-camera{
+    margin-left: 75px;
+}
+.icon-cassette{
+    margin-left: 75px;
+}
+.icon-batman{
+	margin-left: 60px;
+}
+.icon-joystick{
+    margin-left: 75px;
+}
+.icon-bicho{
+    margin-left: 75px;
+}
